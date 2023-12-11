@@ -11,7 +11,7 @@ for i in numbers:
     elif i == 815:
         break
 
-print(f'Четные номера из списка, расположенные левее 815 числа: {even_numbers}')
+print(f'Четные номера из списка, расположенные левее числа 815 : {even_numbers}')
 print(f'Количество отсортированных чисел: {len(even_numbers)}')
 
 
